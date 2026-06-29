@@ -1,0 +1,2 @@
+- Al ver el output inicial el nivel de calidad de las historias me parece buena, por lo que me pareció mucho más sorprendente que a pesar de eso, se generaran muchos poke holes con bastantes áreas de mejora.
+- Al leer algunas historias pasé por alto cosas que la IA pudo detectar y señalar en los poke holes. Especialmente edge cases referentes a la conexión con Google
